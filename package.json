@@ -1,0 +1,19 @@
+{
+  "name": "wetube-clone-2021",
+  "version": "1.0.0",
+  "description": "Cloning Youtube with Vanilla and NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ILeoMattI/wetube-clone-2021.git"
+  },
+  "author": "WooJin Son",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ILeoMattI/wetube-clone-2021/issues"
+  },
+  "homepage": "https://github.com/ILeoMattI/wetube-clone-2021#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
